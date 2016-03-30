@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="topbar_bg">#5F92D4</color>
+    <color name="bottomtab_normal">#F0F491</color>
+    <color name="bottom_tab_wantknow">#1C91EF</color>
+    <color name="line">#3C0FFF</color>
+    <color name="title">#2C048F</color>
+    <color name="bottomtab_press">#29F48F</color>
+
+
+</resources>
